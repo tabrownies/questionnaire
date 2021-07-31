@@ -1,0 +1,12 @@
+{
+  "name": "questionnaire-back-end",
+  "version": "0.1.0",
+  "description": "A back-end server for a locally running kahoot style quizzes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Timothy Brown",
+  "license": "ISC"
+}
