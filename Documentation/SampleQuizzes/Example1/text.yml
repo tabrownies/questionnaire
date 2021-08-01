@@ -1,0 +1,12 @@
+version: '0.1'
+name: Example1
+times played: 0
+questions: 
+- text: 'What is the right answer?'
+  answers: 
+    - 'This one?': false
+    - 'No... this one!': true
+    - 'Actually this one ;)': false
+    - 'Nope... not this one.': false
+
+  
