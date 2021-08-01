@@ -14,7 +14,6 @@ These are the end goals of this coding project, many of which are far enough ahe
 1. An open source project beginners can feel comfortable contributing to
 
 ## Plans and Milestones
-
 1. Create a full detailed plan of the application's functionality. This should include both the MVPs (minimum viable products) for the first two points of the above vision as well as features to be added to both after the minimum viable product is achieved.
     * What technologies will be used
     * How everything will interact
@@ -27,6 +26,18 @@ These are the end goals of this coding project, many of which are far enough ahe
 1. Develop a website and server that allows users to store their quizzes in the cloud to download and use locally **Milestone**
 1. Expand the website to allow the quizzes to be played on the servers **Milestone**
 1. Create a store for sharing quizzes between users **Milestone**
+
+## Coding standards
+These are the technologies you will need to learn to contribute to this repository
+* Front-end
+    * We need to choose between Vue, Angular, and React, but I'm leaning away from React and towards Vue.
+* Back-end
+    * Javascript
+    * Node.js
+        * Express
+* Other
+    * YAML
+    * Markdown
 
 ## Extra info
 ### Extra ideas
