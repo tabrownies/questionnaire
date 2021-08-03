@@ -1,5 +1,5 @@
 # Questionnaire*
-An open source multiplayer *[Kahoot](kahoot.it) style* quiz game
+An open source multiplayer *[Kahoot](https://kahoot.it) style* quiz game
 
 **Name Subject to Change*
 
@@ -14,7 +14,6 @@ These are the end goals of this coding project, many of which are far enough ahe
 1. An open source project beginners can feel comfortable contributing to
 
 ## Plans and Milestones
-
 1. Create a full detailed plan of the application's functionality. This should include both the MVPs (minimum viable products) for the first two points of the above vision as well as features to be added to both after the minimum viable product is achieved.
     * What technologies will be used
     * How everything will interact
@@ -27,6 +26,20 @@ These are the end goals of this coding project, many of which are far enough ahe
 1. Develop a website and server that allows users to store their quizzes in the cloud to download and use locally **Milestone**
 1. Expand the website to allow the quizzes to be played on the servers **Milestone**
 1. Create a store for sharing quizzes between users **Milestone**
+
+## Coding standards
+These are the technologies you will need to learn to contribute to this repository
+* Front-end
+    * HTML5
+    * CSS3
+    * Typescript
+    * Angular
+* Back-end
+    * GoLang
+    * [httprouter](https://github.com/julienschmidt/httprouter)
+* Other
+    * YAML
+    * Markdown
 
 ## Extra info
 ### Extra ideas
@@ -45,4 +58,6 @@ To add ideas open a Github issue with the tag **New Idea**. Once approved open a
 ## Onboarded contributors
 These individuals have edit rights to this repository and review other people's commits. To join, contact Timothy Brown at [tabrownies@gmail.com](mailto:tabrownies@gmail.com)
 * Timothy Brown
+* Chris Whatcott
+* Cailyn Bosworth
 
