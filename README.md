@@ -4,7 +4,7 @@ An open source multiplayer *[Kahoot](https://kahoot.it) style* quiz game
 **Name Subject to Change*
 
 ## Vision
-*Where there is no vision, the people (or coding project) perish* <!--make exact and add reference-->
+*Where there is no vision, the people (or coding project) perish.* (Proverbs 29:18)
 
 These are the end goals of this coding project, many of which are far enough ahead in the future that without significant help, they will never be reached;, however, as explained above they will help ensure this coding project succeeds rather than perishes.
 
@@ -12,6 +12,15 @@ These are the end goals of this coding project, many of which are far enough ahe
 1. A website which hosts games on a server people can connect to
     * This will likely involve pay to cover server expenses and perhaps an income for full time developers and managers (myself included)
 1. An open source project beginners can feel comfortable contributing to
+
+The last point is perhaps the most important. We want to provide anyone with an opportunity to contribute in a meaningful way to a meaningful project. 
+
+## How to contribute
+- Find an issue in the *Issues* tab on Github to work on
+- Work on the issue, this generally involves cloning the repository. If you don't know what that means, learn Git and Github.
+- Push your changes to a branch and create a pull request. It is important that the code or changes you are adding are well documented or else they will be rejected.
+
+Currently we are working on the first milestone below (step 4). Even if you don't know how to code, reach out and we'll put you to work!
 
 ## Plans and Milestones
 1. Create a full detailed plan of the application's functionality. This should include both the MVPs (minimum viable products) for the first two points of the above vision as well as features to be added to both after the minimum viable product is achieved.
@@ -56,7 +65,7 @@ To add ideas open a Github issue with the tag **New Idea**. Once approved open a
 ### Extra notes
 
 ## Onboarded contributors
-These individuals have edit rights to this repository and review other people's commits. To join, contact Timothy Brown at [tabrownies@gmail.com](mailto:tabrownies@gmail.com)
+These individuals have edit rights to this repository and review other people's commits. To join, contact Timothy Brown at [tabrownies@gmail.com](mailto:tabrownies@gmail.com).
 * Timothy Brown
 * Chris Whatcott
 * Cailyn Bosworth
