@@ -1,5 +1,5 @@
 # Questionnaire*
-An open source multiplayer *[Kahoot](kahoot.it) style* quiz game
+An open source multiplayer *[Kahoot](https://kahoot.it) style* quiz game
 
 **Name Subject to Change*
 
@@ -30,11 +30,13 @@ These are the end goals of this coding project, many of which are far enough ahe
 ## Coding standards
 These are the technologies you will need to learn to contribute to this repository
 * Front-end
-    * We need to choose between Vue, Angular, and React, but I'm leaning away from React and towards Vue.
+    * HTML5
+    * CSS3
+    * Typescript
+    * Angular
 * Back-end
-    * Javascript
-    * Node.js
-        * Express
+    * GoLang
+    * [httprouter](https://github.com/julienschmidt/httprouter)
 * Other
     * YAML
     * Markdown
@@ -56,4 +58,6 @@ To add ideas open a Github issue with the tag **New Idea**. Once approved open a
 ## Onboarded contributors
 These individuals have edit rights to this repository and review other people's commits. To join, contact Timothy Brown at [tabrownies@gmail.com](mailto:tabrownies@gmail.com)
 * Timothy Brown
+* Chris Whatcott
+* Cailyn Bosworth
 

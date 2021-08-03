@@ -7,7 +7,7 @@ This includes both a front-end and a back-end which can be run on any local mach
 1. The quiz front-end: running on the same machine as the back-end, it requests and receives the data from the back-end to display for the quiz players.
 1. The player front-ends: running on a machine for each player, these light-weight front-ends query for questions from the back-end and update it with player responses.
 
-It has been decided to use node.js and the Express.js framework for the back-end. The front-end technologies have not been decided.
+It has been decided to use GoLang for the back-end and Angular for the front-end.
 
 The general order of the application control flow is as follows:
 
