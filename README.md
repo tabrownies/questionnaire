@@ -35,7 +35,7 @@ These are the technologies you will need to learn to contribute to this reposito
     * Typescript
     * Angular
 * Back-end
-    * GoLang
+    * GoLang (tutorial: https://tour.golang.org/welcome/1)
     * [httprouter](https://github.com/julienschmidt/httprouter)
 * Other
     * YAML
